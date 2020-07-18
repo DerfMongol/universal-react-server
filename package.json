@@ -27,7 +27,7 @@
     "express": "^4.16.4",
     "express-http-proxy": "1.5.1",
     "live-server": "^1.2.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "mongodb": "^3.2.2",
     "mongoose": "^5.4.21",
     "node-sass": "^4.11.0",
